@@ -61,6 +61,7 @@
 
 .. toctree ::
    :caption: Лабораторные работы:
+   :maxdepth: 1
 
    lab_1.rst
    lab_2.rst
